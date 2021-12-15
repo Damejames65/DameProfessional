@@ -1,3 +1,3 @@
 # Commit
-bestFood = Pizza
-pring(bestFood)
+bestFood = "Pizza"
+print(bestFood)
