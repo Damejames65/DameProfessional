@@ -33,3 +33,5 @@ myFavoriteFruitDictionary = {
     "Paulo" : "pineapple"
 }
 print(myFavoriteFruitDictionary)
+print(type(myFavoriteFruitDictionary))
+print(myFavoriteFruitDictionary["Paulo"])
