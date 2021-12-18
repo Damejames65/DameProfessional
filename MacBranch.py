@@ -8,7 +8,7 @@ sent= "Hey yo,"
 weather= "What is the weather like today? "
 name= input("What is your name good sir?")
 
-combineSTR= Sent + " " + weather + " " + name
+combineSTR= sent + " " + weather + " " + name
 
 print(combineSTR) 
 
